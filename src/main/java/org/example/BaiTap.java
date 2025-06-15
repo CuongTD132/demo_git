@@ -23,5 +23,6 @@ public class BaiTap {
         float chemical = scanner.nextFloat();
         float avgPoint = (math + physics + chemical)/3;
         System.out.println("Điểm trung bình là " + avgPoint + " điểm ");
+        System.out.println("hi");
     }
 }
